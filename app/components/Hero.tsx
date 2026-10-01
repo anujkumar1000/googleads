@@ -12,7 +12,7 @@ export default function Hero() {
   const [imgError, setImgError] = useState(false);
 
   return (
-    <section className="relative z-10 max-w-7xl mx-auto px-5 sm:px-6 md:px-8 pt-28 sm:pt-32 md:pt-40 pb-16 md:pb-24">
+    <section className="relative z-10 max-w-7xl mx-auto px-5 sm:px-6 md:px-8 pt-24 sm:pt-28 md:pt-24 pb-16 md:pb-24">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center">
 
         {/* LEFT — Text */}
