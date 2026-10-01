@@ -28,7 +28,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-xl md:text-2xl font-bold text-white mb-3">1. Agreement to Terms</h2>
               <p className="text-sm md:text-base">
-                By accessing or using the services of YourAgency ("we," "our," or "us"), you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use our services.
+                By accessing or using the services of IT Geeks Digital ("we," "our," or "us"), you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use our services.
               </p>
             </section>
 
@@ -82,7 +82,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-xl md:text-2xl font-bold text-white mb-3">8. Limitation of Liability</h2>
               <p className="text-sm md:text-base">
-                To the maximum extent permitted by law, YourAgency shall not be liable for any indirect, incidental, special, or consequential damages arising from the use of our services. Our total liability shall not exceed the fees paid by you in the three months preceding the claim.
+                To the maximum extent permitted by law, IT Geeks Digital shall not be liable for any indirect, incidental, special, or consequential damages arising from the use of our services. Our total liability shall not exceed the fees paid by you in the three months preceding the claim.
               </p>
             </section>
 

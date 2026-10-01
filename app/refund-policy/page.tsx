@@ -27,7 +27,7 @@ export default function RefundPolicyPage() {
             <section>
               <h2 className="text-xl md:text-2xl font-bold text-white mb-3">1. Overview</h2>
               <p className="text-sm md:text-base">
-                At YourAgency, we're committed to delivering high-quality digital marketing services. This Refund Policy outlines the terms under which refunds may be issued for our services.
+                At IT Geeks Digital, we're committed to delivering high-quality digital marketing services. This Refund Policy outlines the terms under which refunds may be issued for our services.
               </p>
             </section>
 

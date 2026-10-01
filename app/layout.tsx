@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
 export const metadata: Metadata = {
-  title: 'YourAgency — Google Ads & Digital Marketing',
+  title: 'IT Geeks Digital — Google Ads & Digital Marketing',
   description:
     'Data-driven Google Ads campaigns that scale your business profitably.',
 };

@@ -30,7 +30,7 @@ export default function PrivacyPolicyPage() {
             <section>
               <h2 className="text-xl md:text-2xl font-bold text-white mb-3">1. Introduction</h2>
               <p className="text-sm md:text-base">
-                Welcome to YourAgency ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you visit our website or use our services.
+                Welcome to IT Geeks Digital ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you visit our website or use our services.
               </p>
             </section>
 

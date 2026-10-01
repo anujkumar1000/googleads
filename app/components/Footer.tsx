@@ -13,7 +13,7 @@ export default function Footer() {
                 <Sparkles className="w-5 h-5 text-white" />
               </div>
               <span className="text-lg font-bold text-white">
-                Your<span className="gradient-text">Agency</span>
+                IT<span className="gradient-text"> Geeks Digital</span>
               </span>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed max-w-sm">
@@ -70,7 +70,7 @@ export default function Footer() {
 
         <div className="border-t border-white/5 mt-10 md:mt-12 pt-6 md:pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} YourAgency. All rights reserved.
+            © {new Date().getFullYear()} IT Geeks Digital. All rights reserved.
           </p>
           <div className="flex flex-wrap justify-center gap-4 sm:gap-6 text-sm text-gray-500">
             <Link href="/privacy-policy" className="hover:text-purple-400 transition">Privacy Policy</Link>

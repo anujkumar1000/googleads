@@ -52,7 +52,7 @@ export default function Navbar() {
               <Sparkles className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
             </motion.div>
             <span className="text-base sm:text-lg font-bold tracking-tight text-white">
-              Your<span className="gradient-text">Agency</span>
+              IT<span className="gradient-text"> Geeks Digital</span>
             </span>
           </Link>
 
@@ -113,7 +113,7 @@ export default function Navbar() {
                   <Sparkles className="w-4 h-4 text-white" />
                 </div>
                 <span className="text-base font-bold text-white">
-                  Your<span className="gradient-text">Agency</span>
+                  IT<span className="gradient-text"> Geeks Digital</span>
                 </span>
               </Link>
               <button
