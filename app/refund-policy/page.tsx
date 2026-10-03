@@ -76,7 +76,7 @@ export default function RefundPolicyPage() {
                 <li>Any supporting documentation</li>
               </ul>
               <p className="text-sm md:text-base mt-3">
-                Requests must be sent to <a href="mailto:contact@geekstech.com" className="text-purple-400 hover:text-purple-300">contact@geekstech.com</a> within 14 days of the issue arising.
+                Requests must be sent to <a href="mailto:Info@itgeeksdigital.com" className="text-purple-400 hover:text-purple-300">Info@itgeeksdigital.com</a> within 14 days of the issue arising.
               </p>
             </section>
 
@@ -111,7 +111,7 @@ export default function RefundPolicyPage() {
             <section>
               <h2 className="text-xl md:text-2xl font-bold text-white mb-3">10. Contact Us</h2>
               <div className="mt-4 glass rounded-xl p-4 text-sm md:text-base space-y-1">
-                <p><strong className="text-white">Email:</strong> contact@geekstech.com</p>
+                <p><strong className="text-white">Email:</strong> Info@itgeeksdigital.com</p>
                 <p><strong className="text-white">Phone:</strong> +91 94638 19937</p>
                 <p><strong className="text-white">Address:</strong> Prime Towers D 108, Phase 8, 160055 Mohali</p>
               </div>

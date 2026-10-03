@@ -110,7 +110,7 @@ export default function PrivacyPolicyPage() {
                 If you have any questions about this Privacy Policy, please contact us at:
               </p>
               <div className="mt-4 glass rounded-xl p-4 text-sm md:text-base space-y-1">
-                <p><strong className="text-white">Email:</strong> contact@geekstech.com</p>
+                <p><strong className="text-white">Email:</strong> Info@itgeeksdigital.com</p>
                 <p><strong className="text-white">Phone:</strong> +91 94638 19937</p>
                 <p><strong className="text-white">Address:</strong> Prime Towers D 108, Phase 8, 160055 Mohali</p>
               </div>

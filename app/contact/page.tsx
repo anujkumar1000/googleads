@@ -5,7 +5,7 @@ import { Mail, Phone, MapPin, Send, Clock, MessageSquare } from 'lucide-react';
 import { useState } from 'react';
 
 const contactInfo = [
-  { icon: Mail, label: 'Email', value: 'contact@geekstech.com', href: 'mailto:contact@geekstech.com' },
+  { icon: Mail, label: 'Email', value: 'Info@itgeeksdigital.com', href: 'mailto:Info@itgeeksdigital.com' },
   { icon: Phone, label: 'Phone', value: '+91 94638 19937', href: 'tel:+919463819937' },
   { icon: MapPin, label: 'Location', value: 'Prime Towers D 108, Phase 8, 160055 Mohali', href: null },
   { icon: Clock, label: 'Hours', value: 'Mon-Fri, 9am - 6pm IST', href: null },

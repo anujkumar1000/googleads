@@ -110,7 +110,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-xl md:text-2xl font-bold text-white mb-3">12. Contact</h2>
               <div className="mt-4 glass rounded-xl p-4 text-sm md:text-base space-y-1">
-                <p><strong className="text-white">Email:</strong> contact@geekstech.com</p>
+                <p><strong className="text-white">Email:</strong> Info@itgeeksdigital.com</p>
                 <p><strong className="text-white">Phone:</strong> +91 94638 19937</p>
               </div>
             </section>
